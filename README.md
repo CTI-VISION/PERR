@@ -11,7 +11,7 @@ Code and Dataset will come in soon, or contact the corresponding author Yin Zhao
 Please sign and stamp on the [agreement](agreement), then email it to Xun Gao (<gaoxun.gx@alibaba-inc.com>)
 
 # Cite
-If you find this code useful for your research, please consider citing:
+If you find this paper useful for your research, please consider citing:
 
 ```
 @INPROCEEDINGS{gao2021perr,
