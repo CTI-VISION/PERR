@@ -7,6 +7,8 @@ We propose a new task named Pairwise Emotional Relationship Recognition as well 
 
 Code and Dataset will come in soon, or contact the corresponding author Yin Zhao (<yinzhao.zy@alibaba-inc.com>).
 
+# Dataset Request
+Please sign and stamp on the [agreement](agreement), then email it to Xun Gao (<gaoxun.gx@alibaba-inc.com>)
 
 # Cite
 If you find this code useful for your research, please consider citing:
